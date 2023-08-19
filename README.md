@@ -39,15 +39,11 @@ So as part of this roadmap, I have tried to organize all my content  in a way th
   - [WPF](#wpf)
   - [MAUI](#maui)
   - [Desktop Projects](#desktop-projects)
-- [**Level 4**: Advanced C# Deep Dive](#advanced-c-deep-dive): 
-  - [LINQ](#linq)
-  - [Events, delegates, and lambdas](#events-delegates-and-lambdas)
-  - [Multithreading](#multithreading)
-  - [Interacting with DataBases](#interacting-with-databases)
+- [**Level 4**: Advanced C# Deep Dive](#advanced-c-deep-dive)
 - [**Level 5**: Web Developement](#web-development)
   - [Basic HTML, CSS and JavaScript](#basic-html-css-and-javascript)
   - [ASP.Net](#aspnet)
-  - [ASP.Net Web API](#aspnetwebapi)
+  - [ASP.Net Web API](#aspnet-web-api)
   - [Blazor](#blazor)
   - [Web Project](#web-project)
 - [**Level 6**: Game Developement](#game-development)
@@ -141,7 +137,7 @@ Most used and recommended UI framework for Desktop development with C#.
 
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
-Video | [The complete WPF tutorial](https://wpf-tutorial.com/) | 6 week | 5 hours/week | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+Full course | [The complete WPF tutorial](https://wpf-tutorial.com/) | 6 week | 5 hours/week | C# basics | [chat](https://discord.gg/qYTcKnerpB)
 Quick Tutorial | [Writing a WPF app](https://docs.microsoft.com/en-us/learn/modules/write-your-first-windows10-app/2-writing-wpf-app) | 1 day | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
 
 
@@ -168,23 +164,36 @@ Topic | Project | Discussion
 :-- | :-- | :--:
 Winforms | [Create a memory game](https://youtu.be/eL2bMYPoRNc) | [chat](https://discord.gg/qYTcKnerpB)
 WPF | [Classic Snake game in WPF](https://wpf-tutorial.com/creating-game-snakewpf/introduction/) | [chat](https://discord.gg/qYTcKnerpB)
-UWP | [VanArsdel Inventory Sample(Github)](https://github.com/Microsoft/InventorySample) | [chat](https://discord.gg/qYTcKnerpB)
+MAUI | [VanArsdel Inventory Sample(Github)](https://github.com/Microsoft/InventorySample) | [chat](https://discord.gg/qYTcKnerpB)
 
 ## Advanced C# Deep Dive
 
-### LINQ
+**Topics covered**:
+`async/await`
+`delegates`
+`generics`
+`LINQ`
+`collections`
+`dependency injection`
+`& many more`
 
-### Events, delegates, and lambdas
-
-### Multithreading
-
-### Interacting with DataBases
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Playlist | [C# Deepdive: Advanced C# topics](https://youtube.com/playlist?list=PLmzGdRRZtjPe8DdkzF51OnmKvcVU-_8uT) | 2 weeks | 30 min/day | Beginner C# & OOPS concepts | [chat](https://discord.gg/qYTcKnerpB)
 
 ## Web Developement
 
 ### Basic HTML, CSS and JavaScript
 
 ### ASP.Net
+
+### ASP.Net Web API
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Video | [Create Your First Web API Using Visual Studio With C#](https://youtu.be/BfuOUso-W_M) | 1 day | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
+Video | [Create Your First MInimal API Using Visual Studio With C#](https://youtu.be/ffcWtE79-Lg) | 1 day | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
+Video | [How to Consume a REST API in C#](https://youtu.be/OUtpnGaKwWY) | 1 day | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
+
 
 ### Blazor
 
@@ -201,3 +210,8 @@ UWP | [VanArsdel Inventory Sample(Github)](https://github.com/Microsoft/Inventor
 # Progress Tracking
 
 # Misc Resources
+
+## Design Patterns
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Playlist | [Clean code and design patterns](https://youtube.com/playlist?list=PLmzGdRRZtjPfkKJroG4fHSKquN5AIpHw3) | 2 weeks | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
