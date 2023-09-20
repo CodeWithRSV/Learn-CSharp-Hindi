@@ -138,7 +138,7 @@ Most used and recommended UI framework for Desktop development with C#.
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
 Full course | [The complete WPF tutorial](https://wpf-tutorial.com/) | 6 week | 5 hours/week | C# basics | [chat](https://discord.gg/qYTcKnerpB)
-Quick Tutorial | [Writing a WPF app](https://docs.microsoft.com/en-us/learn/modules/write-your-first-windows10-app/2-writing-wpf-app) | 1 day | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+Quick Tutorial | [Introduction to WPF for beginners](https://youtu.be/2S8KUFNxQHA) | 1 day | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
 
 
 ### MAUI
