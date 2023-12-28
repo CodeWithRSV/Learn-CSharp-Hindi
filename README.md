@@ -192,6 +192,7 @@ Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
 Video | [Create Your First Web API Using Visual Studio With C#](https://youtu.be/BfuOUso-W_M) | 1 day | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
 Video | [Create Your First MInimal API Using Visual Studio With C#](https://youtu.be/ffcWtE79-Lg) | 1 day | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
+Playlist | [.NET 8 ASP.Net Web API & Entity Framework in Hindi](https://www.youtube.com/playlist?list=PLmzGdRRZtjPdutnwxESmssPuXUeLvAVif) | 4 days | 30 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
 Video | [How to Consume a REST API in C#](https://youtu.be/OUtpnGaKwWY) | 1 day | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
 
 
