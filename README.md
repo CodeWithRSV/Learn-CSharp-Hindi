@@ -198,6 +198,18 @@ Video | [How to Consume a REST API in C#](https://youtu.be/OUtpnGaKwWY) | 1 day 
 
 ### Blazor
 
+Build interactive, high-performance, secure web apps with one stack.
+
+**Topics covered**:
+`Blazor UI`
+`Navigation`
+`Data Binding`
+`Razor`
+
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Video | [Create Your First Blazor ASP.Net With C#](https://youtu.be/cA0xhdTYVqs) | 1 day | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+
 ### Web Project
 
 ## Game Development
@@ -216,3 +228,8 @@ Video | [How to Consume a REST API in C#](https://youtu.be/OUtpnGaKwWY) | 1 day 
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
 Playlist | [Clean code and design patterns](https://youtube.com/playlist?list=PLmzGdRRZtjPfkKJroG4fHSKquN5AIpHw3) | 2 weeks | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
+
+## Blind 75 Leetcode problems 
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Playlist | [Leetcode Blind 75 Solutions](https://www.youtube.com/playlist?list=PLmzGdRRZtjPdOPvtIkE8EvLt9j69Xe-8b) | 10 weeks | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
