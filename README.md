@@ -34,13 +34,14 @@ So as part of this roadmap, I have tried to organize all my content  in a way th
 - [**Level 1**: Introduction to Programming with C#](#introduction-to-programming-with-c)
 - [**Level 2**: Intermediate Concepts(OOPS)](#intermediate-concepts)
     - [Console Projects](#console-projects)
+- [**Level 2.5**: Introduction to Git & Github](#introduction-to-git--github)
 - [**Level 3**: Introduction to Desktop UI](#introduction-to-desktop-ui)
   - [Winforms](#winforms)
   - [WPF](#wpf)
   - [MAUI](#maui)
   - [Desktop Projects](#desktop-projects)
 - [**Level 4**: Advanced C# Deep Dive](#advanced-c-deep-dive)
-- [**Level 5**: Web Developement](#web-development)
+- [**Level 5**: Web Developement](#web-developement)
   - [Basic HTML, CSS and JavaScript](#basic-html-css-and-javascript)
   - [ASP.Net](#aspnet)
   - [ASP.Net Web API](#aspnet-web-api)
@@ -98,6 +99,23 @@ Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
 Playlist | [OOP Concepts: Intermediate C#](https://www.youtube.com/playlist?list=PLmzGdRRZtjPceP7OcVywQlwZx9CEWBw44) | 1 week | 30 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
 Video | [Object Oriented Programming with C#](https://youtu.be/D9q8wBh0zWc) | 1 day | 2 hours/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
+
+## Introduction to Git & Github
+
+Git is an open-source programming tool used by 95% of programmers to track and document changes in software development, making it an essential skill in the industry.
+
+**Topics covered**:
+`Git`
+`Github`
+`Branches`
+`Commits`
+`Push/Pull`
+
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Video | [Git and GitHub Crash course for beginners](https://youtu.be/x_hpt-CHRIU?si=nUXFRUHvWahLCxgS) | 1 day | 30 min/day | None | [chat](https://discord.gg/qYTcKnerpB)
+Video | [Git Branching and Merging](https://youtu.be/6QNgbD2m7gA?si=iA8xVgS5I31iWzgI) | 1 day | 30 min/day | None | [chat](https://discord.gg/qYTcKnerpB)
+Video | [Git Merge Vs Rebase](https://youtu.be/6-hXmUIQzeg?si=chIjCXK7uTfboBUN) | 1 day | 30 min/day | None | [chat](https://discord.gg/qYTcKnerpB)
 
 ### Console Projects
 
