@@ -155,8 +155,8 @@ Most used and recommended UI framework for Desktop development with C#.
 
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
-Full course | [The complete WPF tutorial](https://wpf-tutorial.com/) | 6 week | 5 hours/week | C# basics | [chat](https://discord.gg/qYTcKnerpB)
-Quick Tutorial | [Introduction to WPF for beginners](https://youtu.be/2S8KUFNxQHA) | 1 day | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+Playlist | [The complete WPF tutorial](https://www.youtube.com/playlist?list=PLmzGdRRZtjPdo-d6EeW5Tcs7RX3eORzR1) | 25 days | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
+Video | [Introduction to WPF for beginners](https://youtu.be/2S8KUFNxQHA) | 1 day | 30 min/day | C# basics | [chat](https://discord.gg/qYTcKnerpB)
 
 
 ### MAUI
@@ -204,6 +204,9 @@ Playlist | [C# Deepdive: Advanced C# topics](https://youtube.com/playlist?list=P
 ### Basic HTML, CSS and JavaScript
 
 ### ASP.Net MVC
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Video | [Create Your First ASP .Net MVC App Using Visual Studio With C#](https://youtu.be/FSbqN5xuPd8) | 1 day | 30 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
 
 ### ASP.Net Web API
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
