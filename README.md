@@ -202,6 +202,9 @@ Playlist | [C# Deepdive: Advanced C# topics](https://youtube.com/playlist?list=P
 ## Web Developement
 
 ### Basic HTML, CSS and JavaScript
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Playlist | [Web Development Tutorials For Beginners In Hindi: (Upto video #62)](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) | 10 weeks | 30 min/day | None | [chat](https://discord.gg/qYTcKnerpB)
 
 ### ASP.Net MVC
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
