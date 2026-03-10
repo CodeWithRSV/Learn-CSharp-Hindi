@@ -181,7 +181,7 @@ In-depth video tutorials | [Developer’s Guide to Windows 10](https://channel9.
 Topic | Project | Discussion
 :-- | :-- | :--:
 Winforms | [Create a memory game](https://youtu.be/eL2bMYPoRNc) | [chat](https://discord.gg/qYTcKnerpB)
-WPF | [Classic Snake game in WPF](https://wpf-tutorial.com/creating-game-snakewpf/introduction/) | [chat](https://discord.gg/qYTcKnerpB)
+WPF | [Classic Snake game in WPF](https://youtu.be/Y2YlB_cclB4) | [chat](https://discord.gg/qYTcKnerpB)
 MAUI | [VanArsdel Inventory Sample(Github)](https://github.com/Microsoft/InventorySample) | [chat](https://discord.gg/qYTcKnerpB)
 
 ## Advanced C# Deep Dive
