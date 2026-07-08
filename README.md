@@ -253,6 +253,11 @@ Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
 Playlist | [Clean code and design patterns](https://youtube.com/playlist?list=PLmzGdRRZtjPfkKJroG4fHSKquN5AIpHw3) | 2 weeks | 20 min/day | Beginner C# concepts | [chat](https://discord.gg/qYTcKnerpB)
 
+## Microservices
+Course Type | Course | Duration | Effort | Prerequisites | Discussion
+:-- | :-- | :--: | :--: | :--: | :--:
+Playlist | [Microservice Architecture with C# .Net](https://www.youtube.com/playlist?list=PLmzGdRRZtjPerw1c9okPx-XnCvWC6vHlo) | 1 week | 20 min/day | ASP.Net Web API | [chat](https://discord.gg/qYTcKnerpB)
+
 ## Blind 75 Leetcode problems 
 Course Type | Course | Duration | Effort | Prerequisites | Discussion
 :-- | :-- | :--: | :--: | :--: | :--:
